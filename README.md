@@ -14,7 +14,9 @@ Our system sets off on a complex trip that includes component identification, am
 - IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
 - Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU and OpenCV for deep learning tasks.
 ## SYSTEM ARCHITECTURE
-
+![IMAGE](https://github.com/Sanjeevharibalan/RECIPE-GENERATION-FROM-FOOD-IMAGES-USING-DEEP-LEARNING/blob/main/Picture1.png)
 ## OUTPUT
-
+![IMAGE](https://github.com/Sanjeevharibalan/RECIPE-GENERATION-FROM-FOOD-IMAGES-USING-DEEP-LEARNING/blob/main/Picture2.png)
 ## RESULT
+In conclusion, recipe generation from food images using deep learning offers a promising avenue for revolutionizing culinary experiences, nutritional awareness, and cooking efficiency. Through the integration of sophisticated deep learning models, this approach can accurately identify ingredients, recommend recipes tailored to individual preferences, and provide valuable nutritional insights.
+
