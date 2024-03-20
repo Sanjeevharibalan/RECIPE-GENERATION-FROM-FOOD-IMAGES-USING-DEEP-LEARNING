@@ -19,4 +19,8 @@ Our system sets off on a complex trip that includes component identification, am
 ![IMAGE](https://github.com/Sanjeevharibalan/RECIPE-GENERATION-FROM-FOOD-IMAGES-USING-DEEP-LEARNING/blob/main/Picture2.png)
 ## RESULT
 In conclusion, recipe generation from food images using deep learning offers a promising avenue for revolutionizing culinary experiences, nutritional awareness, and cooking efficiency. Through the integration of sophisticated deep learning models, this approach can accurately identify ingredients, recommend recipes tailored to individual preferences, and provide valuable nutritional insights.
+## References 
+- Li, D. & Zaki, M. J.(2020) Reciptor: An effective pretrained model for recipe representation learning. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1719–1727.
+- Prateek Chhikara, Dhiraj Chaurasia, Yifan Jiang, Omkar Masur, Filip Ilievski(2023) FIRE: food image to recipe generation,computer vision and pattern recognition
+
 
